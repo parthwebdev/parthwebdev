@@ -17,3 +17,7 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebdev&langs_count=8)
+
+<div id="header" align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg)https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="100"/>
+</div>
