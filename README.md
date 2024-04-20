@@ -1,25 +1,24 @@
-## Hi there 👋
+### Hi there 👋 I'm Parth!
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="100"/>
-</div>
+## I'm a Frontend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> and UI Designer
 
-### ✉️ Find me on:
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/parth-johar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/parth.webdev">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/parth_webdev">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+I am a 20 year old Frontend Developer based in India, skilled in JavaScript (React.js/Next.js)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthwebdev&langs_count=8)
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight) -->
+- 🌱 I'm currently learning MERN
+- 💻 I have worked with **Next, Supabase, Drizzle**(fullstack), GSAP & Framer Motion(Animation)
+- ✨ I'm also a **Content Creator** who shares Tips & Projects related to frontend development
+- 🫱🏻‍🫲🏻 You can find me on [Instagram](instagram.com/parth.webdev) (85K+), [Linkedin](linkedin.com/in/parth-johar), [Twitter](twitter.com/parth_webdev)
+- 🥅 2024 Goals: Contribute to Open Source projects
+- ⚡ Fun facts: I love to watch movies, TV shows and play Badminton
 
-<div id="header" align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg)https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="100"/>
-</div>
+## 🛠️ Skills
+
+**Languages:** `HTML` `CSS` `JavaScript` `TypeScript` `C++`
+
+**Frontend Development:** `Next.js` `React.js` `Tailwind CSS` `shadcn` `GSAP` `Framer Motion`
+
+**Backend Development:** `Supabase` `PostgreSQL` `Drizzle` `Express.js` `MongoDB` 
+
+**Other Libraries:** `Tanstack Query` `Zustand` `Zod` `React Hook Form`
+
+**Tools:** `Git` `GitHub` `Figma` `Canva`
