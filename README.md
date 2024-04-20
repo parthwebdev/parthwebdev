@@ -2,7 +2,7 @@
 
 ## I'm a Frontend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> and UI Designer
 
-I am a 20 year old Frontend Developer based in India, skilled in JavaScript (React.js/Next.js)
+I am a 20-year-old Frontend Developer based in India, skilled in JavaScript (React.js/Next.js)
 
 - 🌱 I'm currently learning MERN
 - 💻 I have worked with **Next, Supabase, Drizzle**(fullstack), GSAP & Framer Motion(Animation)
